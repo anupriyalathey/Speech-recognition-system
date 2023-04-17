@@ -9,7 +9,7 @@ Once the text is extracted, the app identifies the website mentioned in the user
 
 The app then uses browser automation technology to open the website mentioned by the user automatically. The automation technology uses computer vision techniques to locate and interact with the browser interface, allowing the app to type the website's URL and open it.
 
-## Principle:
+## Procedure:
 * **Data Collection:** The first step is to collect audio data that will be used to train the speech recognition model. The audio data can be in the form of audio recordings or live audio input.
 * **Feature Extraction:** Once the audio data has been collected, the next step is to extract relevant features from it. 
 * **Model Training:** After the features have been extracted, they are used to train a machine learning model.
